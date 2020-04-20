@@ -48,3 +48,5 @@ patchPluginXml {
     <p>Note - if you see 'no gitflow' in the status bar you will need to re-init using <code>git flow init -f</code></p>
       """
 }
+
+buildPlugin {}
