@@ -1,7 +1,6 @@
 name: IntelliJ Platform Plugin Compatibility
 
-on:
-  push:
+on: [push, pull_request]
 
 jobs:
   compatibility:
